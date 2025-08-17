@@ -16,7 +16,7 @@ I love building web applications, exploring animation, and sharing knowledge thr
 - 🌳 [EV3 Tree Visualizer](https://ev3treevis.azurewebsites.net/) — LEGO Mindstorms EV3 program visualizer
 - 🧱 [Digital Brick](https://digitalbrick.home.blog/) — Blog about LEGO robotics, programming, and education
 
-### Projects I Support
+### Projects I Love or Support
 - 🤖 [Robot Academy](https://robotacademy.toviscsapat.hu/) — Robotics education resources and courses
 - 🐍 [Pybricks](https://pybricks.com/) — Python coding for LEGO® hubs and robots
 - 🏠 [ESPHome](https://esphome.io/) — Open-source platform for smart home automation
