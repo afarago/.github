@@ -15,6 +15,7 @@ I love building web applications, exploring animation, and sharing knowledge thr
 - 🪞 [Moral Mirror](https://moralmirror.attilafarago.hu/) — Interactive tool for exploring ethical dilemmas
 - 🌳 [EV3 Tree Visualizer](https://ev3treevis.azurewebsites.net/) — LEGO Mindstorms EV3 program visualizer
 - 🧱 [Digital Brick](https://digitalbrick.home.blog/) — Blog about LEGO robotics, programming, and education
+- 🏆 [Pybricks Competition Tutorial](https://pybricks-competition-tutorial.attilafarago.hu/) — Guide for robotics competitions using Pybricks
 
 ### Projects I Love or Support
 - 🤖 [Robot Academy](https://robotacademy.toviscsapat.hu/) — Robotics education resources and courses
