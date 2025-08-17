@@ -11,7 +11,7 @@ I love building web applications, exploring animation, and sharing knowledge thr
 - 🌐 More about me: [attilafarago.hu](https://www.attilafarago.hu/)
 
 ### Featured Projects
-- 🟦 [Block Playground](https://blpy.attilafarago.hu/) — Visual programming playground for creative coding
+- 🟦 [BlocklyPy Playground](https://blpy.attilafarago.hu/) — Visual programming playground for creative coding
 - 🪞 [Moral Mirror](https://moralmirror.attilafarago.hu/) — Interactive tool for exploring ethical dilemmas
 - 🌳 [EV3 Tree Visualizer](https://ev3treevis.azurewebsites.net/) — LEGO Mindstorms EV3 program visualizer
 - 🧱 [Digital Brick](https://digitalbrick.home.blog/) — Blog about LEGO robotics, programming, and education
