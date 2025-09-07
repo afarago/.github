@@ -11,6 +11,7 @@ I love building web applications, exploring animation, and sharing knowledge thr
 - 🌐 More about me: [attilafarago.hu](https://www.attilafarago.hu/)
 
 ### Featured Projects
+- ⭐ [BlocklyPy VSCode Commander](https://marketplace.visualstudio.com/items?itemName=afarago.blocklypy-vscode) - Interact with LEGO® Hubs running Pybricks firmware: compile and upload Python scripts, convert LEGO robotics files.
 - 🟦 [BlocklyPy Playground](https://blpy.attilafarago.hu/) — Visual programming playground for creative coding
 - 🪞 [Moral Mirror](https://moralmirror.attilafarago.hu/) — Interactive tool for exploring ethical dilemmas
 - 🌳 [EV3 Tree Visualizer](https://ev3treevis.azurewebsites.net/) — LEGO Mindstorms EV3 program visualizer
