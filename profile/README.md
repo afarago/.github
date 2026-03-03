@@ -11,7 +11,7 @@ I love building web applications, exploring animation, and sharing knowledge thr
 - 🌐 More about me: [afarago.hu](https://www.afarago.hu)
 
 ### Featured Projects
-- 🏁 RoboVibe — Professional 3D mission planner and simulator for FLL & WRO robotics teams.
+- 🏁 [RoboVibe](https://robovibe.afarago.hu) — Professional 3D mission planner and simulator for FLL & WRO robotics teams.
 - ⭐ [BlocklyPy VSCode Commander](https://marketplace.visualstudio.com/items?itemName=afarago.blocklypy-vscode) — VSCode LEGO: run, convert, explore Pybricks and more.
 - 🟦 [BlocklyPy Playground](https://blpy.afarago.hu/) — Visual programming playground for creative coding for LEGO robotics
 - 🪞 [Moral Mirror](https://moralmirror.afarago.hu/) — Interactive tool for exploring ethical dilemmas
